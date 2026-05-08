@@ -1,0 +1,20 @@
+{
+  "pacs": {
+    "file_name": "pacs_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "images": "images"
+    }
+  },
+  "vgg": {
+    "file_name": "vgg_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "images": "images"
+    }
+  }
+}
